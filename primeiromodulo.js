@@ -1,5 +1,5 @@
 exports.nome= function(){
-    nome ='Leandra';
+    nome ='Beatriz';
     return nome;
 
 }
